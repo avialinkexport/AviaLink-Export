@@ -1,0 +1,6 @@
+{
+  "name": "Avialink Export",
+  "description": "Avialink Export — Egyptian Agricultural Produce & Value-Added Potato Solutions for Global Markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

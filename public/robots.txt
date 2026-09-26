@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/admin/
+Disallow: /placeholders
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+Disallow: /api/admin/
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /assets/
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.svg
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin
+Disallow: /api/admin/
+
+User-agent: Yandex
+Allow: /
+Disallow: /admin
+Disallow: /api/admin/
+
+Host: https://avialink.export
+Sitemap: https://avialink.export/sitemap.xml
